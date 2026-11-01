@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{favicon:`/framerusercontent/assets/3ryH4c7Y95GtiWdOiBVH09LkMY.png`,robots:`max-image-preview:large`,title:`winnie liu`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.Cisy_lYL.mjs.map
